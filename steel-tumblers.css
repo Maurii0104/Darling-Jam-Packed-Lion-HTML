@@ -1,0 +1,47 @@
+.steel-tumblers-container1 {
+  width: 100%;
+  min-height: 100vh;
+}
+ 
+.steel-tumblers-container2 {
+  display: none;
+}
+ 
+.steel-tumblers-container3 {
+  display: contents;
+}
+ 
+.steel-tumblers-image {
+  display: none;
+}
+ 
+.steel-tumblers-thq-back-link-elm {
+  text-decoration: none;
+}
+ 
+.steel-tumblers-thq-btn-shimmer-elm {
+  top: 0;
+  left: -100%;
+  width: 50%;
+  height: 100%;
+  position: absolute;
+  animation: shimmer 3s infinite;
+  transform: skewX(-25deg);
+  background: linear-gradient(to right, transparent, rgba(255, 255, 255, 0.2), transparent);
+}
+ 
+.steel-tumblers-container4 {
+  display: none;
+}
+ 
+.steel-tumblers-container5 {
+  display: contents;
+}
+ 
+.steel-tumblers-container6 {
+  display: none;
+}
+ 
+.steel-tumblers-container7 {
+  display: contents;
+}

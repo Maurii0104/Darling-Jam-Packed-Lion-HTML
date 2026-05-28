@@ -1,0 +1,7 @@
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
+User-agent: *
+Allow: /
+
+Sitemap: https://darling-jam-packed-lion-bzdwaw.teleporthq.app/sitemap.xml

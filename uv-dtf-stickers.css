@@ -1,0 +1,47 @@
+.uvdtf-stickers-container1 {
+  width: 100%;
+  min-height: 100vh;
+}
+ 
+.uvdtf-stickers-container2 {
+  display: none;
+}
+ 
+.uvdtf-stickers-container3 {
+  display: contents;
+}
+ 
+.uvdtf-stickers-image {
+  display: none;
+}
+ 
+.uvdtf-stickers-thq-back-link-elm {
+  text-decoration: none;
+}
+ 
+.uvdtf-stickers-thq-btn-shimmer-elm {
+  top: 0;
+  left: -100%;
+  width: 50%;
+  height: 100%;
+  position: absolute;
+  animation: shimmer 3s infinite;
+  transform: skewX(-25deg);
+  background: linear-gradient(to right, transparent, rgba(255, 255, 255, 0.2), transparent);
+}
+ 
+.uvdtf-stickers-container4 {
+  display: none;
+}
+ 
+.uvdtf-stickers-container5 {
+  display: contents;
+}
+ 
+.uvdtf-stickers-container6 {
+  display: none;
+}
+ 
+.uvdtf-stickers-container7 {
+  display: contents;
+}
